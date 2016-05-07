@@ -1,28 +1,28 @@
 ---
-profileimage: "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAVeAAAAJGFmNmZkZWUwLWYxOTMtNGIyMC05OWJlLTJmZjhhN2UxNGQyYQ.jpg"
-name: "Adrian M Ryan"
-title: "Education Consultant"
+profileimage: "IMG_0007.JPG"
+name: "Norma Easter"
+title: "Professional Cat Lady"
 ---
 
-#### *Adrian is a product manager with 5 years experience building both digital and offline education products.*
+#### *Unlimited cat EXP*
 
-His accomplishments include designing and building career-oriented programs at [General Assembly](http://generalassemb.ly) while managing an international team of 16, building online courses for public companies as a freelance consultant, and founding [a company](http://www.wheelhouse.io) that provides modern software development training to Fortune 500 companies.
+Bruh, I luv me sum catz. Need all teh kitties.
 
-Adrian is available for projects on a case by case basis. Some of the services he provides include:
+Services I can provides include:
 
-#### Strategic Consulting
-* Competitive analysis
-* Business and fincancial modeling
-* Decision making frameworks
-* Open-ended strategic sessions
-* Strategic offsites for management teams
+#### Strategic Cat Skillz
+* How to get cats
+* How to pet cat
+* Feed cat
+* Brush cat
+* cat cat cat
 
-#### Management Consulting
-* Oranization structuring
-* Culture development
-* Management coaching
-* Interviewing, hiring, and onboarding process creation
+#### Cat Management Consulting
+* Have lots of cats? I can help
+* Talk to cat
+* teach cat to kill mice
+* cuddle with cat
 
 #### Education Design and Management
-* Course development
-* Process creation for course authoring teams
+* learn cat meows
+* evaluate rising cost of lint rollers
