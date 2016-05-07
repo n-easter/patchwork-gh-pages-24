@@ -18,4 +18,4 @@ kramdown:
   input: GFM
 
 collections:
-    - index
+- index
