@@ -3,8 +3,13 @@ title: Norma's Profile
 email: neaster@sapient.com
 description: > # this means to ignore newlines until "baseurl:"
   Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+<<<<<<< HEAD
 baseurl: "/project-gh-pages-24"
 url: "http://n-easter.github.io"
+=======
+baseurl: "/patchwork-gh-pages-24"
+url: "http://wheehouseio.github.io"
+>>>>>>> 61b9bde8a26c7dc61bf692f5ba46e4f957710a28
 twitter_username: WheelhouseIO
 github_username:  wheelhouseio
 permalink: /blog/:year/:title/
@@ -18,4 +23,4 @@ kramdown:
   input: GFM
 
 collections:
-- index
+    - index
