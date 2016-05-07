@@ -1,0 +1,21 @@
+# Site settings
+title: Norma's Profile
+email: neaster@sapient.com
+description: > # this means to ignore newlines until "baseurl:"
+  Learn to use GitHub pages with Wheelhouse.io and Patchwork!
+baseurl: "/project-gh-pages"
+url: "http://n-easter.github.io"
+twitter_username: WheelhouseIO
+github_username:  wheelhouseio
+permalink: /blog/:year/:title/
+
+
+# Build settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
+
+collections:
+    - index
